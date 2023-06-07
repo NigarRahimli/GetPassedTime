@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TimePassed\TimePassed\bin\Debug\net7.0\TimePassed.exe
+C:\Users\User\source\repos\TimePassed\TimePassed\bin\Debug\net7.0\TimePassed.deps.json
+C:\Users\User\source\repos\TimePassed\TimePassed\bin\Debug\net7.0\TimePassed.runtimeconfig.json
+C:\Users\User\source\repos\TimePassed\TimePassed\bin\Debug\net7.0\TimePassed.dll
+C:\Users\User\source\repos\TimePassed\TimePassed\bin\Debug\net7.0\TimePassed.pdb
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.AssemblyInfo.cs
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.dll
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\refint\TimePassed.dll
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.pdb
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\TimePassed.genruntimeconfig.cache
+C:\Users\User\source\repos\TimePassed\TimePassed\obj\Debug\net7.0\ref\TimePassed.dll
